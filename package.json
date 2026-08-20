@@ -15,7 +15,7 @@
   "bugs": "https://github.com/Poseidonas/payload-fulfillment/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Poseidonas/payload-fulfillment"
+    "url": "git+https://github.com/Poseidonas/payload-fulfillment.git"
   },
   "license": "MIT",
   "author": "George Vasiliades (https://github.com/Poseidonas)",
