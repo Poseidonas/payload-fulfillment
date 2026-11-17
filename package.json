@@ -1,6 +1,6 @@
 {
   "name": "payload-fulfillment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extra order states, transition history, internal notes and tracking for Payload ecommerce orders.",
   "keywords": [
     "payload",
